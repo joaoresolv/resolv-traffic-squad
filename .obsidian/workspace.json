@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "3907a70f11660e48",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd657a06a5dded88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2ae040d5be6efd7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3592c1029edfd6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "37cd061f8ff89f63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "035787ce33b0e6e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "bdd791221a7bbed1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "322bae0d2e685936",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "e286ea48b418e4ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d513c7512ac0e15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13ba48e7040b1808",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para 10-11"
+            }
+          },
+          {
+            "id": "08efdd9347c1e929",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para 10-11"
+            }
+          },
+          {
+            "id": "fd7c00014213c00b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c0e42266e718ddeb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10-11.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de 10-11"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "c2ae040d5be6efd7",
+  "lastOpenFiles": [
+    "Clientes/Dr Sanderson Cavalcanti/Criativos e Redes Sociais.md",
+    "Campanhas.md",
+    "Clientes/Dra Patricia Liotte/Dra Patricia Liotte.md",
+    "resolv-traffic-squad/vercel.json",
+    "Clientes/Ferramentas e Sistemas.md",
+    "Clientes/Visao Geral da Carteira.md",
+    "resolv-traffic-squad/integrations/whatsapp_notifier.js",
+    "resolv-traffic-squad/agents/meta_auditor.js",
+    "resolv-traffic-squad/agents/crm_analyst.js",
+    "resolv-traffic-squad/agents/business_analyst.js",
+    "Visao Geral.md",
+    "resolv-traffic-squad/apps/dashboard/index.html",
+    "resolv-traffic-squad/apps/dashboard",
+    "resolv-traffic-squad/apps/api/server.js",
+    "resolv-traffic-squad/apps/api",
+    "resolv-traffic-squad/apps",
+    "resolv-traffic-squad/docs/SAFETY_POLICY.md",
+    "resolv-traffic-squad/README.md",
+    "Clientes/Avivar Odontologia/Avivar Odontologia.md",
+    "Clientes/Dr Sanderson Cavalcanti/Campanhas.md",
+    "Clientes/Implante Feliz - Santa Rita/Implante Feliz - Santa Rita.md",
+    "Clientes/Pimenta Cultural/Pimenta Cultural.md",
+    "Clientes/Prohouse Colchoes/Prohouse Colchoes.md",
+    "Arquitetura do Sistema/Resolv Trafego Squad.md",
+    "Clientes/Telemetria Dental/Telemetria Dental.md",
+    "Clientes/Vem Sorrir - Santa Rita/Vem Sorrir - Santa Rita.md",
+    "Clientes/Sorria - Guaxupe/Sorria - Guaxupe.md",
+    "Clientes/Sorria - Itapira/Sorria - Itapira.md",
+    "Clientes/Implante Feliz - Lavras/Implante Feliz - Lavras.md",
+    "Clientes/Implante Feliz - Guaxupe/Implante Feliz - Guaxupe.md",
+    "Clientes/Implante Feliz - Mococa/Implante Feliz - Mococa.md",
+    "Clientes/Implante Feliz - Paulinia/Implante Feliz - Paulinia.md",
+    "Clientes/Implante Feliz - Varginha/Implante Feliz - Varginha.md",
+    "Clientes/Implante Feliz - Tres Coracoes/Implante Feliz - Tres Coracoes.md",
+    "Clientes/Implante Feliz - Artur Nogueira/Implante Feliz - Artur Nogueira.md",
+    "Clientes/Implante Feliz - Sao Sebastiao do Paraiso/Implante Feliz - Sao Sebastiao do Paraiso.md",
+    "Funil 1 — Campanha dos 30 ingressos para o MLS Festival.canvas",
+    "Funil 2 — Crescimento de audiência, iscas digitais e Social Selling.canvas",
+    "Pasted image 20260724082624.png"
+  ]
+}

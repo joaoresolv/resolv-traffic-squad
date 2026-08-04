@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"885ead7bf7b00ac9","type":"file","file":"Pasted image 20260724082624.png","x":-440,"y":-400,"width":237,"height":400},
+		{"id":"194de2f6c760485d","type":"text","text":"Acessa a landing page","x":-160,"y":-229,"width":140,"height":59},
+		{"id":"920de6fb5e6a6f3a","type":"text","text":"VSL","x":20,"y":-229,"width":80,"height":60},
+		{"id":"da894dcf4ddd1832","type":"text","text":"Preenche o formulário de aplicação","x":160,"y":-229,"width":250,"height":60},
+		{"id":"5eb7b7836fc9a109","type":"text","text":"Lead entra no  CRM\n","x":440,"y":-228,"width":180,"height":60},
+		{"id":"5aefb45d47a3c711","type":"text","text":"Lead recebe mensagem de abordagem","x":680,"y":-228,"width":250,"height":60},
+		{"id":"c41bad328a6519c4","type":"text","text":"Olá, **{{nome}}**! Parabéns por concluir sua inscrição na campanha **Conquiste o Seu Próximo Nível**.\n\nRecebemos suas informações e, agora, nossa equipe vai analisar seu perfil e o momento atual da sua empresa.\n\nCaso você avance para a próxima etapa, entraremos em contato pelo WhatsApp para uma conversa estratégica e para explicar os próximos passos da seleção para um dos 30 ingressos do MLS Festival.\n\nFique atento às mensagens por aqui.","x":680,"y":-120,"width":250,"height":540},
+		{"id":"0fb3b871b148bf49","type":"text","text":"A equipe realiza a call de qualificação","x":1000,"y":-228,"width":250,"height":60},
+		{"id":"846b5519315b6a61","type":"text","text":"Empresário aprovado conquista um dos 30 ingressos","x":1300,"y":-246,"width":250,"height":96},
+		{"id":"68d41d61221a4988","type":"text","text":"Lead recebe lembrete ","x":1300,"y":-100,"width":250,"height":60},
+		{"id":"88fcbef091ac0cc3","type":"text","text":"Gravar um vídeo sobre os 30 **ingressos** ","x":-70,"y":-111,"width":250,"height":60},
+		{"id":"096d932203389a8f","type":"text","text":"CRIATIVOS ","x":-387,"y":-520,"width":131,"height":60},
+		{"id":"40e19b39db42dbdd","type":"text","text":"### Verba Total de Julho","x":-25,"y":-840,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"eaf1260fc91de6bd","fromNode":"885ead7bf7b00ac9","fromSide":"right","toNode":"194de2f6c760485d","toSide":"left"},
+		{"id":"ae6327ddd556500b","fromNode":"194de2f6c760485d","fromSide":"right","toNode":"920de6fb5e6a6f3a","toSide":"left"},
+		{"id":"9725f3d1fb856b3a","fromNode":"920de6fb5e6a6f3a","fromSide":"right","toNode":"da894dcf4ddd1832","toSide":"left"},
+		{"id":"db942f5c72d70e3f","fromNode":"da894dcf4ddd1832","fromSide":"right","toNode":"5eb7b7836fc9a109","toSide":"left"},
+		{"id":"1d245fa9dd244644","fromNode":"5eb7b7836fc9a109","fromSide":"right","toNode":"5aefb45d47a3c711","toSide":"left"},
+		{"id":"de3efe8304c265a5","fromNode":"5aefb45d47a3c711","fromSide":"bottom","toNode":"c41bad328a6519c4","toSide":"top"},
+		{"id":"13c3990780bec2a1","fromNode":"5aefb45d47a3c711","fromSide":"right","toNode":"0fb3b871b148bf49","toSide":"left"},
+		{"id":"ad04be66b2d100cb","fromNode":"0fb3b871b148bf49","fromSide":"right","toNode":"846b5519315b6a61","toSide":"left"},
+		{"id":"f8c8d6321286c959","fromNode":"846b5519315b6a61","fromSide":"bottom","toNode":"68d41d61221a4988","toSide":"top"},
+		{"id":"0ba85b33bed2f67a","fromNode":"920de6fb5e6a6f3a","fromSide":"bottom","toNode":"88fcbef091ac0cc3","toSide":"top"}
+	]
+}
